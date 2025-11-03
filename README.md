@@ -25,6 +25,10 @@ fastor-app/
 │
 ├── package.json
 └── README.md
+
+
+
+
 1️⃣ Install Dependencies
 npm install
 
